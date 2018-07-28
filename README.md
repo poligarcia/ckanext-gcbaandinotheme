@@ -1,28 +1,6 @@
-.. image:: https://travis-ci.org/datosgobar/ckanext-andinotemplate.svg?branch=master
-    :target: https://travis-ci.org/datosgobar/ckanext-andinotemplate
+[![Build Status](https://travis-ci.org/datosgobar/ckanext-andinotemplate.svg?branch=master)](https://travis-ci.org/datosgobar/ckanext-andinotemplate)
 
-.. image:: https://coveralls.io/repos/datosgobar/ckanext-andinotemplate/badge.svg
-  :target: https://coveralls.io/r/datosgobar/ckanext-andinotemplate
-
-.. image:: https://pypip.in/download/ckanext-andinotemplate/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-andinotemplate/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-andinotemplate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-andinotemplate/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-andinotemplate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-andinotemplate/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-andinotemplate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-andinotemplate/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-andinotemplate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-andinotemplate/
-    :alt: License
+[![Docs Status](https://readthedocs.org/projects/ckanext-andinotemplate/badge/?version=master)](http://ckanext-andinotemplate.readthedocs.io/es/master/)
 
 # ckanext-andinotemplate
 
