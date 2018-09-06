@@ -1,5 +1,11 @@
 {% extends "gobar_page.html" %}
 
+{%- block styles -%}
+    {{ super() }}
+    {%- resource 'gcbaandinotheme/css/gcba_theme.css' -%}
+{%- endblock -%}
+
+
 {%- block header %}
 
 <div id="header" class="container-fluid">
