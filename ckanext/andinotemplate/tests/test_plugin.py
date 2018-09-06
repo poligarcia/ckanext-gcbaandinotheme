@@ -1,5 +1,5 @@
 """Tests for plugin.py."""
-import ckanext.andinotemplate.plugin as plugin
+import ckanext.gcbaandinotheme.plugin as plugin
 
 def test_plugin():
     pass
