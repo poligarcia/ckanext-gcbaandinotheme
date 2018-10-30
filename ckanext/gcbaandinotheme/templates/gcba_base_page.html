@@ -50,6 +50,12 @@
                         </div>
                     {% endif %}
 
+                    <div class="navbar-link">
+                        <a href="{{ h.url('historias') }}">
+                            Historias con datos
+                        </a>
+                    </div>
+
                     {% if h.get_theme_config('about.about-type') != 'No quiero una sección de acerca' and
                           h.get_theme_config('about.about-type') != 'None'%}
 
@@ -128,6 +134,10 @@
                             APIs
                         </a>
                     {%- endif -%}
+
+                    <a class="header-link" href="{{ h.url('historias') }}">
+                        Historias con datos
+                    </a>
 
                     {% if h.get_theme_config('about.about-type') != 'No quiero una sección de acerca' and
                           h.get_theme_config('about.about-type')  is not none %}

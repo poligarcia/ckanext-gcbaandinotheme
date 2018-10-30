@@ -17,7 +17,7 @@ class GcbaAndinoThemePlugin(plugins.SingletonPlugin):
         return m
 
     def after_map(self, m):
-        m.connect('seccion-nueva', "/seccion-nueva",
+        m.connect('historias', "/historias-con-datos",
                   controller='ckanext.gcbaandinotheme.plugin_controller:GcbaAndinoThemeController',
-                  action='seccion_nueva')
+                  action='historias')
         return m
